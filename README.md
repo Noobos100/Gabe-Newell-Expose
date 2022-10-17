@@ -1,7 +1,7 @@
 Gabe Newell 
 ===========
 
-Gabe Logan Newell né le 3 novembre 1962, surnommé Gaben, est un businessman américain et le président de l’entreprise de jeux vidéo [**Valve**][https://en.wikipedia.org/wiki/Valve_Corporation].  
+Gabe Logan Newell né le 3 novembre 1962, surnommé Gaben, est un businessman américain et le président de l’entreprise de jeux vidéo [**Valve**]:[https://en.wikipedia.org/wiki/Valve_Corporation].  
 
 Il a d’abord travaillé pendant 13 ans en tant que développeur principal pour les 3 premières versions de Windows 
 
